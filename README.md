@@ -1,10 +1,10 @@
+# DiscordBee
+MusicBee plugin that updates your Discord status with the currently playing track
+- [x] Carbon Music Icons
 
 [![Github All Releases](https://img.shields.io/github/downloads/sll552/DiscordBee/total.svg)](https://github.com/sll552/DiscordBee/releases)
 [![AppVeyor](https://img.shields.io/appveyor/ci/sll552/DiscordBee.svg)](https://ci.appveyor.com/project/sll552/discordbee)
 [![GitHub license](https://img.shields.io/github/license/sll552/DiscordBee.svg)](https://github.com/sll552/DiscordBee/blob/master/LICENSE)
-
-# DiscordBee
-MusicBee plugin that updates your Discord status with the currently playing track
 
 ## Installation
 Just copy all plugin files into your MusicBee Plugins directory (usually "C:\Program Files (x86)\MusicBee\Plugins").
@@ -38,7 +38,10 @@ If you are unhappy with your changes, you can always restore the defaults and sa
 ![Profile](https://i.imgur.com/vnBq4rp.png)
 
 ## Contributing
-Feel free to send pull requests or open issues. The project is a Visual Studio 2017 Solution. 
+Feel free to send pull requests or open issues to the offical ![MusicBee GitHub!](https://github.com/sll552/DiscordBee)
+
+## Programs used
+- [x] Visual Studio 2017 Solution
 
 ## Libraries and Assets used
  - [Discord RPC](https://github.com/discordapp/discord-rpc)
