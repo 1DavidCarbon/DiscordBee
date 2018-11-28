@@ -38,7 +38,7 @@ If you are unhappy with your changes, you can always restore the defaults and sa
 ![Profile](https://i.imgur.com/vnBq4rp.png)
 
 ## Contributing
-Feel free to send pull requests or open issues to the offical ![MusicBee GitHub!](https://github.com/sll552/DiscordBee)
+Feel free to send pull requests or open issues to the official ![MusicBee GitHub!](https://github.com/sll552/DiscordBee)
 
 ## Programs used
 - [x] Visual Studio 2017 Solution
